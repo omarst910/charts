@@ -1,0 +1,7 @@
+name: hello-world
+
+image:
+  repository: gcr.io/keen-vision-291800/express-hello-world:latest
+  tag: v2.0
+
+secretName: example-secret
